@@ -1,8 +1,8 @@
 {
-  "name": "cryptools",
+  "name": "cryptoolsorg",
   "version": "1.0.0",
   "description": "The main package for all scoped CrypTools' packages",
-  "main": "index.js",
+  "main": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
