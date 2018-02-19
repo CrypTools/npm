@@ -1,0 +1,22 @@
+{
+  "name": "cryptools",
+  "version": "1.0.0",
+  "description": "The main package for all scoped CrypTools' packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrypTools/npm.git"
+  },
+  "keywords": [
+    "cryptools"
+  ],
+  "author": "CrypTools",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CrypTools/npm/issues"
+  },
+  "homepage": "https://github.com/CrypTools/npm#readme"
+}
